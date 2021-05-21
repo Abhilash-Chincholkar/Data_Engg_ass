@@ -1,11 +1,8 @@
 # Data_Engg_assessment
-As you can see, first I create Table India using sql database,
-after successful completion of table India,
-I have inserted values in Table India.
-After successful insertion of values, I check table constriants,
-By using SQL queries we can retrieve data from data as shown.
+As per document I have created table Table_India and inserted values into the table by INSERT query.
+And also I have written few SELECT queries to retrive/read data from table.
 
 
 Assessment completed by: Abhilash Arun Chincholkar
-Gmail: abhilashchincholkar
+Gmail: abhilashchincholkar@gmail.com
 Mobile no: 8983101559
